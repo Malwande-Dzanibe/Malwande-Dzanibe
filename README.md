@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-I am Malwande Dzanibe from Gauteng, South Africa. I am currently a frontend web developer / aspiring fullstack web developer. I am fluent in plain JavaScript and I have a good understanding of React.js
-
-Currently I have over 1 year experience in plain JavaScript and a couple of months experience in React.js . In that period I have been able to learn a lot of frontend concepts and I am able to use them effectively in projects, especially the ES6 concepts that have also helped me to understand and use React.js effectively
+Front End web developer with almost 2 years of coding experience in ReactJS, Standard JavaScript, CSS3 and HTML5. A
+Very good record of consistency in everything I do in my personal life, which is the reason why I am consistent in web development as well. I am a fast learner that is 
+always searching for information and trying my best to learn and utilize the current trends in web development. I have a passion for building web apps that people 
+would actually use in real life on a daily basis and making profit for the business as well.
 
 Here is a link to my portfolio to see some of what I can do https://malwande-dzanibe.github.io/my-website
 

@@ -1,4 +1,4 @@
-### Hi there 👋 {#first}
+### Hi there {#first-e}
 
 Front End developer with 2 years of coding experience in NextJS, TypeScript, ReactJS, Standard JavaScript, CSS3 and HTML5. A
 Very good record of consistency in everything I do in my personal life, which is the reason why I am consistent in web development as well. I am a fast learner that is 

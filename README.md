@@ -1,22 +1,20 @@
 
-Name : Malwande Dzanibe
+**Name : Malwande Dzanibe**
 
-Email : [malwandedza@gmail.com](mailto:malwandedza@gmail.com)
+**Email : [malwandedza@gmail.com](mailto:malwandedza@gmail.com)**
 
-Github : [https://github.com/Malwande-Dzanibe](https://github.com/Malwande-Dzanibe)
+**Github : [https://github.com/Malwande-Dzanibe](https://github.com/Malwande-Dzanibe)**
 
-LinkedIn : [#http://www.linkedin.com/mwlite/in/malwande-dzanibe-3550a0261](#http://www.linkedin.com/mwlite/in/malwande-dzanibe-3550a0261)
+**LinkedIn : [#http://www.linkedin.com/mwlite/in/malwande-dzanibe-3550a0261](http://www.linkedin.com/mwlite/in/malwande-dzanibe-3550a0261)**
 
-Phone : +27 748 031 890
+**Phone : +27 748 031 890**
 
+## <font style="color : green">Objective</font> 
 
-
-## <span style="color : green">Objective</span> 
-
-``Front End developer with 2 years of coding experience in NextJS, TypeScript, ReactJS, Standard JavaScript,   CSS3 and HTML5. I spend my time really wisely, which is one of the reasons why I know how to code, I 
+**Front End developer with 2 years of coding experience in NextJS, TypeScript, ReactJS, Standard JavaScript,   CSS3 and HTML5. I spend my time really wisely, which is one of the reasons why I know how to code, I 
 always try my best to do something productive with most of my time. I am an ambitious person that is 
 always searching for ways of how to improve, both in my personal life and in my career as a web developer. I am a fast learner that is capable of learning anything if I 
-dedicate my time studying it ``
+dedicate my time studying it**
     
 ## Skills
 
@@ -34,13 +32,13 @@ dedicate my time studying it ``
 
 ## Education
 
-I am a self-taught web developer, Kindly check out some of the projects I have done attached below
+**I am a self-taught web developer, Kindly check out some of the projects I have done attached below**
 
 - [Ecommerce Website Demo](https://front-end-ecommerce-demo.vercel.app)
 
 ## Work Experience
 
-Before I taught myself how to be a web developer I used to work for these companies below
+**Before I taught myself how to be a web developer I used to work for these companies below**
 
 ```
 Company Name : I-cat International 

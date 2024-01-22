@@ -1,11 +1,11 @@
 
-**Name : Malwande Dzanibe**
+**Name     : Malwande Dzanibe**
 
-**Email : [malwandedza@gmail.com](mailto:malwandedza@gmail.com)**
+**Email    : [malwandedza@gmail.com](mailto:malwandedza@gmail.com)**
 
-**Github : [https://github.com/Malwande-Dzanibe](https://github.com/Malwande-Dzanibe)**
+**Github   : [https://github.com/Malwande-Dzanibe](https://github.com/Malwande-Dzanibe)**
 
-**LinkedIn : [#http://www.linkedin.com/mwlite/in/malwande-dzanibe-3550a0261](http://www.linkedin.com/mwlite/in/malwande-dzanibe-3550a0261)**
+**LinkedIn : [http://www.linkedin.com/mwlite/in/malwande-dzanibe-3550a0261](http://www.linkedin.com/mwlite/in/malwande-dzanibe-3550a0261)**
 
 **Phone : +27 748 031 890**
 

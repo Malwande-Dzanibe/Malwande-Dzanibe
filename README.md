@@ -1,4 +1,4 @@
-**Hi there, my name is Malwande Dzanibe I am a web developer with 3 years of experience in NextJS, ReactJS, TypeScript, JavaScript, ExpressJS, Prisma ORM, SQL and NoSQL databases.**
+**Hi there, my name is Malwande Dzanibe I am a web developer with 3 years of experience in NextJS, ReactJS, TypeScript, JavaScript, ExpressJS, Prisma ORM, and SQL databases.**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Malwande-Dzanibe&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
